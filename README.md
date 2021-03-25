@@ -17,3 +17,10 @@
 * 系級:中央大學會計碩一
 * 組員四:張詠淳
 * 系級:中央大學會計碩一
+
+------
+# 個人作業
+## 作業一:關於雲端運算的心得
+[雲端運算](https://github.com/Lee-Jessica/FinTech/blob/main/homework1/%E9%9B%B2%E7%AB%AF%E9%81%8B%E7%AE%97.md)
+
+## 作業二
