@@ -26,3 +26,5 @@
 ## 作業二
 [Build a Website using Amazon EC2 with LAMP](https://www.youtube.com/watch?v=k-IXbw8J5Ao&ab_channel=%E6%9D%8E%E6%B1%9D%E7%9B%88)
 
+## 作業三
+[Build a Website using Amazon S3(Versioning) and AWS Amplify](https://youtu.be/6WRk3o49zd8)
