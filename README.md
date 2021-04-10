@@ -28,3 +28,6 @@
 
 ## 作業三
 [Build a Website using Amazon S3(Versioning) and AWS Amplify](https://youtu.be/6WRk3o49zd8)
+
+## 作業四
+[Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda](https://youtu.be/9HOB5mQQfeQ)
