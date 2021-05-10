@@ -21,6 +21,7 @@
 ------
 ## 進度會報
 * [第一次會報](https://youtu.be/j945t6HmkT0)
+* [第二次進度會報](https://drive.google.com/file/d/1a3jv02B7lUieLMlvuzRuQ0nD1K0-wwse/view?usp=sharing)
 ------
 # 個人作業
 ## 作業一:關於雲端運算的心得
